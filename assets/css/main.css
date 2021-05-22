@@ -1669,3 +1669,6 @@ input, select, textarea {
 
 /* Custom CSS */
 
+div.project a.button.small {
+	margin-right: 1rem;
+}
